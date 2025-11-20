@@ -1,2 +1,2 @@
 # Programming
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilSour&show_icons=true&theme=radical)
+https://tenor.com/ru/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173
