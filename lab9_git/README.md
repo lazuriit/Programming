@@ -27,3 +27,9 @@
 ![Скриншоты](images/3.2.3.jpg)
 - git log --oneline --graph показывает указание на коммит 
 
+![Скриншоты](images/3.2.4.jpg)
+- Файл file2.txt не пропал, а остался в ветке main
+
+![Скриншоты](images/3.2.5.jpg)
+- git diff mybranch master показал разницу между двумя ветками, в одной есть файл file1.txt в другой file2.txt, а так же разницу между README.md
+![Скриншоты](images/3.2.6.jpg)
