@@ -1,5 +1,5 @@
 # Programming💻
-![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley]([https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif))
+![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
 
 - Группа: ИКС-531
 - Студент: Трубинов Вячеслав Александрович
