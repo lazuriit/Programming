@@ -1,8 +1,5 @@
 # Programming💻
-![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849) ![rick-roll-rick-ashley](https://github.com/user-attachments/assets/990d508a-1dc9-47ee-a5d0-8ae235424849)
-
 ![mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 - Группа: ИКС-531
 - Студент: Трубинов Вячеслав Александрович
 - Преподаватель: Вейлер Андрей Игоревич
