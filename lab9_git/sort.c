@@ -9,3 +9,10 @@ void bubble_sort(int size, int arr[size]) {
         }
     }
 }
+
+int main() {
+    int a[] = {4, 2};
+    int size = sizeof(a) / sizeof(a[0]);
+    bubble_sort(size, a);
+    return 0;
+}
