@@ -2,10 +2,12 @@
 #define POINT_H
 
 typedef struct {
-    double x, y, z;
-} Point;
+    double x;
+    double y;
+    double z;
+} Point3D;
 
-Point initPoint(double x, double y, double z);
-double distance(Point a, Point b);
+Point3D createPoint(double x, double y, double z);
+double distance(Point3D a, Point3D b);
 
 #endif
