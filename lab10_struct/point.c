@@ -1,15 +1,18 @@
-#include <math.h>
 #include "point.h"
+#include <math.h>
 
-Point initPoint(double x, double y, double z) {
-    Point p = {x, y, z};
+Point3D createPoint(double x, double y, double z) {
+    Point3D p;
+    p.x = x;
+    p.y = y;
+    p.z = z;
     return p;
 }
 
-double distance(Point a, Point b) {
+double distance(Point3D a, Point3D b) {
     return sqrt(
-        (a.x - b.x)*(a.x - b.x) +
-        (a.y - b.y)*(a.y - b.y) +
-        (a.z - b.z)*(a.z - b.z)
+        (b.x - a.x) * (b.x - a.x) +
+        (b.y - a.y) * (b.y - a.y) +
+        (b.z - a.z) * (b.z - a.z)
     );
 }
