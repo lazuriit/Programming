@@ -3,22 +3,20 @@
 #include <time.h>
 #include "pcgames.h"
 
+struct Game games[N];
+
 int main() {
-
     srand(time(NULL));
-
-    struct Game games[N];
 
     fillGames(games);
 
-    printf("Массив ДО сортировки по рейтингу:\n\n");
+    printf("Массив ДО сортировки:\n\n");
     printGames(games);
 
     selectionSortByRating(games);
 
-    printf("Массив ПОСЛЕ сортировки по рейтингу:\n\n");
+    printf("Массив ПОСЛЕ сортировки:\n\n");
     printGames(games);
 
     return 0;
 }
-
