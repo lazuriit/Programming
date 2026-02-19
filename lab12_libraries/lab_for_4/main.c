@@ -3,8 +3,6 @@
 #include <time.h>
 #include "pcgames.h"
 
-#define N 10
-
 int main() {
 
     srand(time(NULL));
