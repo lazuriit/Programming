@@ -1,5 +1,5 @@
-#ifndef _PCGAMES_H_
-#define _PAGAMES_H_
+#ifndef _SMARTHOME_H_
+#define _SMARTHOME_H_
 
 #define N 10
 
@@ -11,9 +11,7 @@ struct Game {
 };
 
 void fillGames(struct Game games[]);
-
 void printGames(struct Game games[]);
-
 void selectionSortByRating(struct Game games[]);
 
-#endif 
+#endif
