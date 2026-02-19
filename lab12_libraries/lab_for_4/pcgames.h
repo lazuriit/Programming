@@ -1,6 +1,8 @@
 #ifndef _PCGAMES_H_
 #define _PAGAMES_H_
 
+#define N 10
+
 struct Game {
     char title[40];
     char genre[20];
