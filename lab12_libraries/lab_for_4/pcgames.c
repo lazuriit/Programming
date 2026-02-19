@@ -3,8 +3,6 @@
 #include <string.h>
 #include "pcgames.h"
 
-#define N 10
-
 void fillGames(struct Game games[]) {
 
     const char *titles[N] = {
