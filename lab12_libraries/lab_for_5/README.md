@@ -1,4 +1,4 @@
-Some basic Git commands are:
+Компиляция, линковка и запуск
 ```
 gcc pcgames.c -c -fPIC
 gcc --shared pcgames.o -o libPC_GAMES.so
