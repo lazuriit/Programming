@@ -1,5 +1,5 @@
 Компиляция и запукс unit-тестов
 ```
-gcc main.c math.c -o soft
+gcc tests.c math.c -lcmocka -o tests
 ./tests
 ```
