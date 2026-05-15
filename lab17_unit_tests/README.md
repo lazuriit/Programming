@@ -1,5 +1,7 @@
-Компиляция и запукс unit-тестов
+Компиляция и запукс программы, unit-тестов 
 ```
-gcc tests.c math.c -lcmocka -o tests
+gcc -o main main.c math.c
+./main
+gcc -o tests tests.c math.c -lcmocka
 ./tests
 ```
